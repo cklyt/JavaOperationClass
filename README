@@ -1,0 +1,7 @@
+#This project brings together most of the things below
+-	Polymorphism
+-	Exception Handling
+-	Reflection
+-	Collections
+-	Generics
+#reads command input and finds the right operation
